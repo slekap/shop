@@ -1,6 +1,8 @@
 body{
   height: 100vh;
   background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+  width: 100%;
+  max-width: 100%;
 }
 
 .cooltitle {
